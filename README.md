@@ -96,12 +96,6 @@ I'm a passionate Python developer with a growing interest in cloud technologies 
   <img src="https://github-profile-trophy.vercel.app/?username=SnakeyEye497&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4" alt="GitHub Trophies"/>
 </div>
 
-## 🐍 Contribution Snake
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SnakeyEye497/SnakeyEye497/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SnakeyEye497/SnakeyEye497/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="workflows/snake.yml">
-</picture>
 
 ## 📌 Featured Projects
 
@@ -112,12 +106,6 @@ I'm a passionate Python developer with a growing interest in cloud technologies 
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SnakeyEye497&repo=SignSpeak&theme=tokyonight&hide_border=true" />
 </a>
 
-## 🧠 My ML Journey
-```
-📊 Data Collection → 🔍 Exploration → 🧹 Preprocessing → 🧮 Modeling → 📈 Evaluation → 🚀 Deployment
-```
-
----
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=SnakeyEye497&style=for-the-badge&color=blue" alt="Profile Views"/>
