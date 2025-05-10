@@ -96,8 +96,6 @@ I'm a passionate Python developer with a growing interest in cloud technologies 
   <img src="https://github-profile-trophy.vercel.app/?username=SnakeyEye497&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4" alt="GitHub Trophies"/>
 </div>
 
-## 🐍 Contribution Snake
-![Snake animation](https://github.com/SnakeyEye497/SnakeyEye497/blob/output/github-contribution-grid-snake.svg)
 
 ## 📌 Featured Projects
 
