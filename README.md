@@ -12,7 +12,7 @@ class PythonDeveloper:
         self.role = "Python Developer"
         self.interests = ["Machine Learning", "Cloud Computing", "DevOps"]
         self.learning = ["AWS", "Azure", "CI/CD"]
-        self.languages = ["Python", "SQL", "JavaScript"]
+        self.languages = ["Python", "SQL", "Java",]
     
     def say_hi(self):
         print("Thanks for visiting my GitHub profile! Let's collaborate and build something amazing together!")
@@ -23,10 +23,9 @@ me.say_hi()
 
 I'm a passionate Python developer with a growing interest in cloud technologies and machine learning. I enjoy solving complex problems and automating workflows through efficient code. Currently exploring the intersection of ML models deployment in cloud environments and streamlining development pipelines.
 
-- 🔭 I'm currently working on ML model deployment projects
-- 🌱 I'm currently learning AWS, Azure, and DevOps practices
-- 👯 I'm looking to collaborate on Python projects, especially in ML/Cloud domains
-- 💬 Ask me about Python, machine learning workflows, cloud deployment
+- I'm currently working on ML model deployment projects
+- I'm currently learning AWS, Azure, and DevOps practices
+
 
 ## 🌐 Connect with me
 <p align="left">
@@ -66,7 +65,7 @@ I'm a passionate Python developer with a growing interest in cloud technologies 
   <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="azure"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="docker"/>
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="kubernetes"/>
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="github actions"/>
+ 
 </p>
 
 ### Tools & Platforms
