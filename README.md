@@ -106,11 +106,11 @@ I'm a passionate Python developer with a growing interest in cloud technologies 
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SnakeyEye497&repo=SignSpeak&theme=tokyonight&hide_border=true" />
 </a>
 
-
-<div align="center">
+<br>
+<div align="left">
   <img src="https://komarev.com/ghpvc/?username=SnakeyEye497&style=for-the-badge&color=blue" alt="Profile Views"/>
 </div>
-
-<div align="center">
+<br>
+<div align="left">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Quote" />
 </div>
