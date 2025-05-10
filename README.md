@@ -100,7 +100,7 @@ I'm a passionate Python developer with a growing interest in cloud technologies 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SnakeyEye497/SnakeyEye497/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SnakeyEye497/SnakeyEye497/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/SnakeyEye497/SnakeyEye497/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="workflows/snake.yml">
 </picture>
 
 ## 📌 Featured Projects
