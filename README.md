@@ -1,15 +1,33 @@
-# Hi there 👋, I'm Swaraj
+# Hi there 👋, I'm [Your Name]
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&size=25&center=true&vCenter=true&width=600&height=100&lines=Developer;Designer;Problem+Solver;Open-Source+Enthusiast" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&size=25&center=true&vCenter=true&width=600&height=100&lines=Python+Developer;Machine+Learning+Student;Cloud+Learner;Problem+Solver;DevOps+Enthusiast" />
 </div>
 
 ## 💫 About Me
-- 🔭 I'm currently working on [Your Current Project]
-- 🌱 I'm currently learning [Skills You're Learning]
-- 👯 I'm looking to collaborate on [Types of Projects]
-- 💬 Ask me about [Your Areas of Expertise]
-- 📫 How to reach me: [Your Email or Social Media]
+```python
+class PythonDeveloper:
+    def __init__(self):
+        self.name = "Your Name"
+        self.role = "Python Developer"
+        self.interests = ["Machine Learning", "Cloud Computing", "DevOps"]
+        self.learning = ["AWS", "Azure", "CI/CD"]
+        self.languages = ["Python", "SQL", "JavaScript"]
+    
+    def say_hi(self):
+        print("Thanks for visiting my GitHub profile! Let's collaborate and build something amazing together!")
+
+me = PythonDeveloper()
+me.say_hi()
+```
+
+I'm a passionate Python developer with a growing interest in cloud technologies and machine learning. I enjoy solving complex problems and automating workflows through efficient code. Currently exploring the intersection of ML models deployment in cloud environments and streamlining development pipelines.
+
+- 🔭 I'm currently working on ML model deployment projects
+- 🌱 I'm currently learning AWS, Azure, and DevOps practices
+- 👯 I'm looking to collaborate on Python projects, especially in ML/Cloud domains
+- 💬 Ask me about Python, machine learning workflows, cloud deployment
+- 📫 How to reach me: Check the social links below
 - ⚡ Fun fact: [Interesting Fact About You]
 
 ## 🌐 Connect with me
@@ -17,43 +35,94 @@
   <a href="https://linkedin.com/in/your-linkedin" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/>
   </a>
-  <a href="https://twitter.com/your-twitter" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="twitter"/>
+  <a href="mailto:your-email@example.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="email"/>
   </a>
-  <!-- Add more social media as needed -->
+  <a href="https://gitlab.com/your-gitlab" target="_blank">
+    <img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white" alt="gitlab"/>
+  </a>
+  <a href="https://github.com/your-other-github" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="github"/>
+  </a>
+  <a href="https://discordapp.com/users/your-discord-id" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="discord"/>
+  </a>
 </p>
 
 ## 💻 Tech Stack
+
+### Languages & Frameworks
 <p align="left">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="javascript"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="python"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css3"/>
-  <!-- Add more technologies you use -->
+  <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="pandas"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="numpy"/>
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="tensorflow"/>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="pytorch"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="sql"/>
+</p>
+
+### Cloud & DevOps
+<p align="left">
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="aws"/>
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="azure"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="docker"/>
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="kubernetes"/>
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="github actions"/>
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" alt="jenkins"/>
+</p>
+
+### Tools & Platforms
+<p align="left">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="git"/>
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="jupyter"/>
+  <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="vscode"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="linux"/>
 </p>
 
 ## 📊 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SnakeyEye497&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SnakeyEye497&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SnakeyEye497&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</div>
+
+## 📈 Contribution Graph
+<div align="center">
+  <img src="https://activity-graph.herokuapp.com/graph?username=SnakeyEye497&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
 </div>
 
 ## 🏆 GitHub Trophies
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=your-username&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=SnakeyEye497&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4" alt="GitHub Trophies"/>
 </div>
+
+## 🐍 Contribution Snake
+![Snake animation](https://github.com/SnakeyEye497/SnakeyEye497/blob/output/github-contribution-grid-snake.svg)
+
+## 📌 Featured Projects
+
+<a href="https://github.com/SnakeyEye497/project-name">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SnakeyEye497&repo=project-name&theme=tokyonight&hide_border=true" />
+</a>
+<a href="https://github.com/SnakeyEye497/another-project">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SnakeyEye497&repo=another-project&theme=tokyonight&hide_border=true" />
+</a>
+
+## 🧠 My ML Journey
+```
+📊 Data Collection → 🔍 Exploration → 🧹 Preprocessing → 🧮 Modeling → 📈 Evaluation → 🚀 Deployment
+```
 
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=your-username&style=flat-square&color=blue" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=SnakeyEye497&style=for-the-badge&color=blue" alt="Profile Views"/>
 </div>
 
-<!-- This section creates the snake animation of your contribution graph -->
 <div align="center">
-  <img src="https://github.com/your-username/your-username/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Quote" />
 </div>
