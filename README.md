@@ -1,116 +1,75 @@
-# Hi there 👋, I'm Swaraj
+# 👋 Hi there, I'm Swaraj
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&size=25&center=true&vCenter=true&width=600&height=100&lines=Python+Developer;Machine+Learning+Student;Cloud+Learner;Problem+Solver;DevOps+Enthusiast" />
-</div>
-
-## 💫 About Me
 ```python
 class PythonDeveloper:
     def __init__(self):
         self.name = "Swaraj"
         self.role = "Python Developer"
-        self.interests = ["Machine Learning", "Cloud Computing", "DevOps"]
+        self.skills = ["Machine Learning", "Cloud Computing", "DevOps"]
         self.learning = ["AWS", "Azure", "CI/CD"]
-        self.languages = ["Python", "SQL", "Java",]
-    
+        self.languages = ["Python", "SQL", "Java"]
+
     def say_hi(self):
-        print("Thanks for visiting my GitHub profile! Let's collaborate and build something amazing together!")
+        print("Thanks for visiting! Let’s build something amazing.")
 
 me = PythonDeveloper()
 me.say_hi()
 ```
 
-I'm a passionate Python developer with a growing interest in cloud technologies and machine learning. I enjoy solving complex problems and automating workflows through efficient code. Currently exploring the intersection of ML models deployment in cloud environments and streamlining development pipelines.
+🚀 Passionate about solving problems with Python, deploying ML models in the cloud, and streamlining DevOps workflows.
 
-- I'm currently working on ML model deployment projects
-- I'm currently learning AWS, Azure, and DevOps practices
+---
 
+## 🔧 Tech Stack
 
-## 🌐 Connect with me
-<p align="left">
-  <a href="mailto:your-email@example.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="email"/>
-  </a>
-  <a href="https://linkedin.com/in/your-linkedin" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/>
-  </a>
-  <a href="https://gitlab.com/your-gitlab" target="_blank">
-    <img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white" alt="gitlab"/>
-  </a>
-  <a href="https://github.com/your-other-github" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="github"/>
-  </a>
-  <a href="https://discordapp.com/users/your-discord-id" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="discord"/>
-  </a>
+**Languages & Frameworks**  
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat)  
+![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white&style=flat)  
+![Flask](https://img.shields.io/badge/-Flask-000?logo=flask&logoColor=white&style=flat)  
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white&style=flat)  
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white&style=flat)
+
+**Cloud & DevOps**  
+![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white&style=flat)  
+![Azure](https://img.shields.io/badge/-Azure-0078D4?logo=microsoft-azure&logoColor=white&style=flat)  
+![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat)  
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?logo=kubernetes&logoColor=white&style=flat)
+
+**Tools**  
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat)  
+![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black&style=flat)  
+![VS Code](https://img.shields.io/badge/-VSCode-007ACC?logo=visual-studio-code&logoColor=white&style=flat)  
+![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?logo=jupyter&logoColor=white&style=flat)
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SnakeyEye497&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SnakeyEye497&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SnakeyEye497&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
-## 💻 Tech Stack
+---
 
-### Languages & Frameworks
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="python"/>
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="django"/>
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn"/>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="tensorflow"/>
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="pytorch"/>
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="flask"/>
-  <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="pandas"/>
-</p>
+## 🌐 Connect with Me
 
-### Cloud & DevOps
-<p align="left">
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="aws"/>
-  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="azure"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="docker"/>
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="kubernetes"/>
- 
-</p>
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/your-other-github)
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=flat&logo=discord&logoColor=white)](https://discordapp.com/users/your-discord-id)
 
-### Tools & Platforms
-<p align="left">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="git"/>
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="jupyter"/>
-  <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="vscode"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="linux"/>
-</p>
-
-## 📊 GitHub Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SnakeyEye497&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SnakeyEye497&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SnakeyEye497&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</div>
-
-## 📈 Contribution Graph
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SnakeyEye497&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
-</div>
-
-## 🏆 GitHub Trophies
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SnakeyEye497&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4" alt="GitHub Trophies"/>
-</div>
-
+---
 
 ## 📌 Featured Projects
 
-<a href="https://github.com/SnakeyEye497/Space-Insight">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SnakeyEye497&repo=Space-Insight&theme=tokyonight&hide_border=true" />
-</a>
-<a href="https://github.com/SnakeyEye497/SignSpeak">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SnakeyEye497&repo=SignSpeak&theme=tokyonight&hide_border=true" />
-</a>
+[![Space Insight](https://github-readme-stats.vercel.app/api/pin/?username=SnakeyEye497&repo=Space-Insight&theme=tokyonight&hide_border=true)](https://github.com/SnakeyEye497/Space-Insight)
+[![SignSpeak](https://github-readme-stats.vercel.app/api/pin/?username=SnakeyEye497&repo=SignSpeak&theme=tokyonight&hide_border=true)](https://github.com/SnakeyEye497/SignSpeak)
 
-<br>
-<div align="left">
-  <img src="https://komarev.com/ghpvc/?username=SnakeyEye497&style=for-the-badge&color=blue" alt="Profile Views"/>
-</div>
-<br>
-<div align="left">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Quote" />
-</div>
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=SnakeyEye497&style=flat&color=blue" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+</p>
