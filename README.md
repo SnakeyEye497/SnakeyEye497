@@ -1,7 +1,6 @@
-# Swaraj | Python Developer
-
+# Swaraj ::)
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=435&lines=Python+Developer;ML+Enthusiast;Cloud+Explorer;Problem+Solver" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=435&lines=Python+Developer;ML+Enthusiast;Cloud+Explorer" />
 </div>
 
 ## About Me
@@ -13,7 +12,7 @@ class Developer:
         self.role = "Python Developer"
         self.focus = ["Machine Learning", "Cloud Computing", "DevOps"]
         self.skills = {
-            "languages": ["Python", "SQL", "Java"],
+            "languages": ["Python", "SQL", "Java" , "JavaScript " , "C C++" , "VB.NET"],
             "ml_tools": ["scikit-learn", "TensorFlow", "PyTorch"],
             "frameworks": ["Django", "Flask"],
             "cloud": ["AWS", "Azure"],
@@ -59,15 +58,20 @@ I'm passionate about building data-driven solutions and automating workflows. Cu
 ## Connect
 
 <p align="left">
+    <a href="mailto:your-email@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="email"/>
+      
   <a href="https://linkedin.com/in/your-linkedin">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/>
   </a>
-  <a href="mailto:your-email@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="email"/>
+  </a>
+  <a href="https://github.com/SnakeyEye497">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="github"/>
   </a>
   <a href="https://github.com/SnakeyEye497">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="github"/>
   </a>
 </p>
 
+<a></a>
 <img src="https://komarev.com/ghpvc/?username=SnakeyEye497&style=flat-square&color=blue" alt="Profile Views"/>
