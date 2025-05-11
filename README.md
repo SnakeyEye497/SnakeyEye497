@@ -12,11 +12,13 @@ class Developer:
         self.role = "Python Developer"
         self.focus = ["Machine Learning", "Cloud Computing", "DevOps"]
         self.skills = {
-            "languages": ["Python", "SQL", "Java" , "JavaScript " , "C C++" , "VB.NET"],
+            "languages": ["Python", "SQL", "Java"],
             "ml_tools": ["scikit-learn", "TensorFlow", "PyTorch"],
             "frameworks": ["Django", "Flask"],
             "cloud": ["AWS", "Azure"],
-            "devops": ["Docker", "Kubernetes", "CI/CD"]
+            "devops": ["Docker", "Kubernetes", "CI/CD"],
+            "Additional Technical Skills": ["Android Development", "Routing", "Network Security","Automation Scripting", "x86 Assembly"],
+           
         }
     
     def current_journey(self):
