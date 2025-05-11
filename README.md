@@ -1,4 +1,4 @@
-# Swaraj ::)
+# Swaraj | Code Monarch 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=435&lines=Python+Developer;ML+Enthusiast;Cloud+Explorer" />
 </div>
@@ -43,9 +43,16 @@ I'm passionate about building data-driven solutions and automating workflows. Cu
 
 ## Projects
 
+### [Space Insight](https://github.com/SnakeyEye497/Space-Insight)
+A detailed project for monitoring and analyzing space data. It provides insights and visualizations for space-related activities.
+
 <a href="https://github.com/SnakeyEye497/Space-Insight">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SnakeyEye497&repo=Space-Insight&theme=tokyonight&hide_border=true" />
 </a>
+
+### [SignSpeak](https://github.com/SnakeyEye497/SignSpeak)
+An innovative project designed to bridge communication gaps, translating sign language into text or speech in real-time.
+
 <a href="https://github.com/SnakeyEye497/SignSpeak">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SnakeyEye497&repo=SignSpeak&theme=tokyonight&hide_border=true" />
 </a>
@@ -75,5 +82,4 @@ I'm passionate about building data-driven solutions and automating workflows. Cu
   </a>
 </p>
 
-<a></a>
-<img src="https://komarev.com/ghpvc/?username=SnakeyEye497&style=flat-square&color=blue" alt="Profile Views"/>
+
