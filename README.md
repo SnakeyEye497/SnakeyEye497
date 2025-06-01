@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Swaraj/Shadow Monarch</h1>
+<h1 align="center">Hi 👋, I'm Swaraj............</h1>
 <h3 align="center">"I use the system, and the system uses me"</h3>
 <p align="center">
   <i>Status: just another developer...</i>
