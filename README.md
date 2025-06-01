@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Swaraj.....</h1>
 <h3 align="center">"I use the system, and the system uses me"</h3>
 <p align="center">
-  <i>]just another developer...</i>
+  <i>just another developer...</i>
 <!-- </p>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=snakeyeye497&show_icons=true&theme=radical" alt="snakeyeye497" />
