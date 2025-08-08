@@ -1,36 +1,44 @@
-<h1 align="center">Hi 👋, I'm Swaraj !</h1>
- <h3 align="center">just another developer.....</h3>
-<!-- <p align="center">
-  <i></i> -->
-<!-- </p>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=snakeyeye497&show_icons=true&theme=radical" alt="snakeyeye497" />
-</div>
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=snakeyeye497&theme=radical" alt="snakeyeye497" />
-</div>
-<p align="center"> -->
-  <!-- Example: -->
-  <!-- <a href="https://linkedin.com/in/yourusername" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yourusername" height="30" width="40" /></a> -->
-<!-- </p>
-💻 Screwdrivers & Wrenches:
-<p align="center">
-  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>&nbsp;&nbsp;&nbsp;
-  </a>
-  <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/>&nbsp;&nbsp;&nbsp;
-  </a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>&nbsp;&nbsp;&nbsp;
-  </a>
-  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/>&nbsp;&nbsp;&nbsp;
-  </a>
-  <a href="https://postman.com" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>&nbsp;&nbsp;&nbsp;
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>&nbsp;&nbsp;&nbsp;
-  </a>
-</p> -->
+### Hi there 👋 I'm [Swaraj!](https://github.com/SnakeyEye497)
+
+<img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" />
+
+## I'm a Third Year Student At Vishwakarma Institute of Information Technology 
+
+- Actively building real-world **Cloud, DevOps**, and **Machine Learning** projects.
+-  Exploring AWS, GCP, Terraform, and CI/CD pipelines through event-driven & microservices architectures.
+- Learning Mlops, Django, Computer Networking, Linux & system design.
+- Passionate about combining AI with scalable cloud infrastructure.
+
+---
+
+##### Languages I use
+
+
+![C](https://img.shields.io/badge/-C-000000?style=flat&logo=c)
+![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=c%2B%2B)
+![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5)
+![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=java)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
+![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
+![VB.NET](https://img.shields.io/badge/-VB.NET-000000?style=flat&logo=dotnet)
+![Assembly x86](https://img.shields.io/badge/-Assembly-000000?style=flat&logo=gnuemacs)
+![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=postgresql)
+
+##### Some of the technologies I have worked with
+
+![Git](https://img.shields.io/badge/-Git-222222?style=flat&logo=git&logoColor=F05032)
+![GitHub](https://img.shields.io/badge/-GitHub-222222?style=flat&logo=github&logoColor=181717)
+![Linux](https://img.shields.io/badge/-Linux-222222?style=flat&logo=linux&logoColor=FCC624)
+![Amazon Web Services](https://img.shields.io/badge/-Amazon%20Web%20Services-222222?style=flat-square&logo=Amazon-Web-Service)
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-black?style=flat-square&logo=google-cloud)
+![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
+![AWS](https://img.shields.io/badge/-AWS-000000?style=flat&logo=amazon-aws)
+![Terraform](https://img.shields.io/badge/-Terraform-000000?style=flat&logo=terraform)
+![Django](https://img.shields.io/badge/-Django-000000?style=flat&logo=django)
+![Bash](https://img.shields.io/badge/-Bash-000000?style=flat&logo=gnubash)
+![DevOps](https://img.shields.io/badge/-DevOps-000000?style=flat&logo=devops)
+<br/>
+
+---
+
+Last edited on: 08/08/2025
