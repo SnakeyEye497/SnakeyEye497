@@ -3,7 +3,7 @@
 <tr>
 <td>
 
-### Hi there 👋 I'm [Swaraj!](https://github.com/SnakeyEye497)
+### Hi there I'm [Swaraj!](https://github.com/SnakeyEye497)
 
 ## I'm a Third Year Student At VIIT, Pune
 
