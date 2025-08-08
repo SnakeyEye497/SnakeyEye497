@@ -2,7 +2,7 @@
 
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" />
 
-## I'm a Third Year Student At Vishwakarma Institute of Information Technology 
+## I'm a Third Year Student At VIIT,Pune
 
 - Actively building real-world **Cloud, DevOps**, and **Machine Learning** projects.
 -  Exploring AWS, GCP, Terraform, and CI/CD pipelines through event-driven & microservices architectures.
