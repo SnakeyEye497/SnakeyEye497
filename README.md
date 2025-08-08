@@ -9,7 +9,7 @@
 - Learning Mlops, Django, Computer Networking, Linux & system design.
 - Passionate about combining AI with scalable cloud infrastructure.
 
----
+
 
 ##### Languages I use
 
