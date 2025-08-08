@@ -51,3 +51,6 @@
 ---
 
 Last edited on: 08/08/2025
+This GIthub Profile features my end-to-end real-world projects spanning AI, ML/DL, full-stack development, and more.
+- Includes work in machine learning, deep learning, generative AI, Django, React, Redis, and Celery for scalable task management.
+- A practical showcase of applied skills across diverse domains and modern technologies.
