@@ -1,18 +1,19 @@
 ### Hi there 👋 I'm [Swaraj!](https://github.com/SnakeyEye497)
 
-<img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" />
+<div align="right">
+  <img alt="GIF" height="160px" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" />
+</div>
 
-## I'm a Third Year Student At VIIT,Pune
+## I'm a Third Year Student At VIIT, Pune
 
 - Actively building real-world **Cloud, DevOps**, and **Machine Learning** projects.
--  Exploring AWS, GCP, Terraform, and CI/CD pipelines through event-driven & microservices architectures.
+- Exploring AWS, GCP, Terraform, and CI/CD pipelines through event-driven & microservices architectures.
 - Learning Mlops, Django, Computer Networking, Linux & system design.
 - Passionate about combining AI with scalable cloud infrastructure.
 
-
+---
 
 ##### Languages I use
-
 
 ![C](https://img.shields.io/badge/-C-000000?style=flat&logo=c)
 ![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=c%2B%2B)
